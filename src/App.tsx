@@ -75,7 +75,7 @@ function App() {
           <div>
             <h2 id="heading-id">
               <a href="" className="typewrite" data-period="2000"
-                 data-type='[ "drippiest fashion brand", "first drop in spring 2021", "Collection: After Party" ]'>
+                 data-type='[ "upcoming fashion brand", "first drop in spring 2021", "Collection: After Party" ]'>
                 <span className="wrap"></span>
               </a>
             </h2>
